@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Search for a GitHub repository that:\n1. Uses a database\n2. Utilizes Google API tokens and spreadsheets\n3. Has LINE developer as an endpoint","md5":"75e431b15e471861dd742dfc00716c8b"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
